@@ -1,0 +1,5 @@
+Name: Baizid MD Ashadzzaman
+Position: University Adjunct Lecturer
+Skills: Python, Machine Learning, Laravel, Database Management Systems
+Experience: 5+ years of teaching, working on AI and Augmented Reality projects
+Education: B.Sc. in CSE from International Islamic University Chittagong
